@@ -1,3 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#apresentacao {
+    text-align: center;
+}
+
+#eu {
+    height: 200px;
+    border-radius: 25%;
+}
+
 table {
     border: 1px solid lightgray;
     border-collapse: collapse;
