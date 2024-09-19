@@ -17,7 +17,7 @@ table {
     border: 1px solid darkgrey;
     border-collapse: collapse;
     width: 65%;
-    color: #c04466;
+    color: #BD6074;
  }
 
  tr:nth-child(even) {
@@ -40,16 +40,27 @@ table {
     text-align: center;
  }
 
-h2, h3 {
+h1, h2, h3 {
     color: lightgrey; 
  }
 
+ #experiencia {
+   align-items: center;
+ }
 
  a {
    text-decoration: none;
-   color: #cc6984;
+   color: #CF6F77;
  }
 
  a:hover {
    color: #d48198;
+ }
+
+ footer {
+   text-align: center;
+ }
+
+ #icon {
+   height: 40px;
  }
