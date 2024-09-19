@@ -1,5 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgrey;
+    background-color: #333333;
 }
 
 #apresentacao {
@@ -12,27 +14,42 @@ body {
 }
 
 table {
-    border: 1px solid lightgray;
+    border: 1px solid darkgrey;
     border-collapse: collapse;
-    width: 25%;
+    width: 65%;
+    color: #c04466;
  }
 
  tr:nth-child(even) {
-    background-color: lightgrey;
+    background-color: darkgray;
  }
 
  th {
-    border: 1px solid lightgray;
+    border: 1px solid darkgrey;
     text-align: center;
     padding: 5px 15px;
  }
 
  td {
-    border: 1px solid lightgray;
+    border: 1px solid darkgrey;
     text-align: justify;
     padding: 5px 15px;
  }
 
  #center {
     text-align: center;
+ }
+
+h2, h3 {
+    color: lightgrey; 
+ }
+
+
+ a {
+   text-decoration: none;
+   color: #cc6984;
+ }
+
+ a:hover {
+   color: #d48198;
  }
