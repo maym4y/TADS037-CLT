@@ -4,12 +4,21 @@ body {
     background-color: #333333;
 }
 
+#nav {
+  text-align: center;
+}
+
+iframe {
+  margin-top: 10px;
+  border: 2px solid #BD6074;
+}
+
 #apresentacao {
     text-align: center;
 }
 
 #eu {
-    height: 200px;
+    height: 150px;
     border-radius: 25%;
 }
 
@@ -18,7 +27,7 @@ table {
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
-    width: 65%;
+    width: 95%;
     color: #BD6074;
  }
 
