@@ -1,0 +1,19 @@
+body {
+    background-color: #333333;
+    color: lightgray;
+}
+
+#foto {
+    width: 100%;
+}
+
+.navbar{
+    background-color: #BD6074;
+    color: lightgrey;
+}
+
+#icon {
+    height: 25px;
+}
+
+/* cores:  #333333; table #BD6074; link #CF6F77; hover  #d48198*/
